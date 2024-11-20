@@ -1,0 +1,197 @@
+# Query: FoodPicky
+# ContextLines: 1
+
+42 results - 26 files
+
+checkout.php:
+  307      <script src="js/headroom.js"></script>
+  308:     <script src="js/foodpicky.min.js"></script>
+  309  </body>
+
+dishes.php:
+  578      <script src="js/headroom.js"></script>
+  579:     <script src="js/foodpicky.min.js"></script>
+  580  </body>
+
+index.php:
+  431      <script src="js/headroom.js"></script>
+  432:     <script src="js/foodpicky.min.js"></script>
+  433  </body>
+
+registration.php:
+  221                             <div class="panel-heading">
+  222:                               <h4 class="panel-title"><a data-parent="#accordion" data-toggle="collapse" class="panel-toggle collapsed" href="#faq1" aria-expanded="false"><i class="ti-info-alt" aria-hidden="true"></i>What is FoodPicky Customer Care Number?</a></h4>
+  223                             </div>
+  224                             <div class="panel-collapse collapse" id="faq1" aria-expanded="false" role="article" style="height: 0px;">
+  225: ⟪ 274 characters skipped ⟫upport. Just search for your issue in the help section on this page and initiate a chat with us. A customer care executive will be assigned to you shortly. You can also email us your issue on support@foodpicky.in</div>
+  226                             </div>
+
+  379      <script src="js/headroom.js"></script>
+  380:     <script src="js/foodpicky.min.js"></script>
+  381  </body>
+
+restaurants.php:
+  308      <script src="js/headroom.js"></script>
+  309:     <script src="js/foodpicky.min.js"></script>
+  310  </body>
+
+your_orders.php:
+  490      <script src="js/headroom.js"></script>
+  491:     <script src="js/foodpicky.min.js"></script>
+  492  </body>
+
+admin/add_category.php:
+  55      <!-- Favicon icon -->
+  56: 	<link rel="icon" type="image/png" sizes="16x16" href="images/foodpicky.png">
+  57      <title>FoodFinder - Admin Dashboard</title>
+
+  85                          <!-- Logo icon -->
+  86:                         <b><img src="images/foodpicky.png" alt="homepage" class="dark-logo" width = "25px"/></b>
+  87                          <!--End Logo icon -->
+
+admin/add_menu.php:
+  116      <!-- Favicon icon -->
+  117: 	<link rel="icon" type="image/png" sizes="16x16" href="images/foodpicky.png">
+  118      <title>FoodFinder - Admin Dashboard</title>
+
+  146                          <!-- Logo icon -->
+  147:                         <b><img src="images/foodpicky.png" alt="homepage" class="dark-logo" width = "25px"/></b>
+  148                          <!--End Logo icon -->
+
+admin/add_restraunt.php:
+  116      <!-- Favicon icon -->
+  117: 	<link rel="icon" type="image/png" sizes="16x16" href="images/foodpicky.png">
+  118      <title>FoodFinder - Admin Dashboard</title>
+
+  146                          <!-- Logo icon -->
+  147:                         <b><img src="images/foodpicky.png" alt="homepage" class="dark-logo" width = "25px"/></b>
+  148                          <!--End Logo icon -->
+
+admin/add_users.php:
+   92      <!-- Favicon icon -->
+   93: 	<link rel="icon" type="image/png" sizes="16x16" href="images/foodpicky.png">
+   94      <title>FoodFinder - Admin Dashboard</title>
+
+  122                          <!-- Logo icon -->
+  123:                         <b><img src="images/foodpicky.png" alt="homepage" class="dark-logo" width = "25px"/></b>
+  124                          <!--End Logo icon -->
+
+admin/all_menu.php:
+  16      <!-- Favicon icon -->
+  17: 	<link rel="icon" type="image/png" sizes="16x16" href="images/foodpicky.png">
+  18      <title>FoodFinder - Admin Dashboard</title>
+
+  46                          <!-- Logo icon -->
+  47:                         <b><img src="images/foodpicky.png" alt="homepage" class="dark-logo" width = "25px"/></b>
+  48                          <!--End Logo icon -->
+
+admin/all_orders.php:
+  16      <!-- Favicon icon -->
+  17: 	<link rel="icon" type="image/png" sizes="16x16" href="images/foodpicky.png">
+  18      <title>FoodFinder - Admin Dashboard</title>
+
+  47                          <!-- Logo icon -->
+  48:                         <b><img src="images/foodpicky.png" alt="homepage" class="dark-logo" width = "25px"/></b>
+  49                          <!--End Logo icon -->
+
+admin/allrestraunt.php:
+  16      <!-- Favicon icon -->
+  17: 	<link rel="icon" type="image/png" sizes="16x16" href="images/foodpicky.png">
+  18      <title>FoodFinder - Admin Dashboard</title>
+
+  46                          <!-- Logo icon -->
+  47:                         <b><img src="images/foodpicky.png" alt="homepage" class="dark-logo" width = "25px"/></b>
+  48                          <!--End Logo icon -->
+
+admin/allusers.php:
+  16      <!-- Favicon icon -->
+  17: 	<link rel="icon" type="image/png" sizes="16x16" href="images/foodpicky.png">
+  18      <title>FoodFinder - Admin Dashboard</title>
+
+  46                          <!-- Logo icon -->
+  47:                         <b><img src="images/foodpicky.png" alt="homepage" class="dark-logo" width = "25px"/></b>
+  48                          <!--End Logo icon -->
+
+admin/dashboard.php:
+  21      <!-- Favicon icon -->
+  22:     <link rel="icon" type="image/png" sizes="16x16" href="images/foodpicky.png">
+  23      <title>FoodFinder - Admin Dashboard</title>
+
+  51                          <!-- Logo icon -->
+  52:                         <b><img src="images/foodpicky.png" alt="homepage" class="dark-logo" width = "25px"/></b>
+  53                          <!--End Logo icon -->
+
+admin/order_update.php:
+  38      <!-- Favicon icon -->
+  39:     <link rel="icon" type="image/png" sizes="16x16" href="images/foodpicky.png">
+  40      <title>FoodFinder - Admin Dashboard</title>
+
+admin/update_category.php:
+  46      <!-- Favicon icon -->
+  47:     <link rel="icon" type="image/png" sizes="16x16" href="images/foodpicky.png">
+  48      <title>FoodFinder - Admin Dashboard</title>
+
+  76                          <!-- Logo icon -->
+  77:                         <b><img src="images/foodpicky.png" alt="homepage" class="dark-logo" width = "25px"/></b>
+  78                          <!--End Logo icon -->
+
+admin/update_menu.php:
+  101      <!-- Favicon icon -->
+  102:     <link rel="icon" type="image/png" sizes="16x16" href="images/foodpicky.png">
+  103      <title>FoodFinder - Admin Dashboard</title>
+
+  131                          <!-- Logo icon -->
+  132:                         <b><img src="images/foodpicky.png" alt="homepage" class="dark-logo" width = "25px"/></b>
+  133                          <!--End Logo icon -->
+
+admin/update_restraunt.php:
+  116      <!-- Favicon icon -->
+  117:     <link rel="icon" type="image/png" sizes="16x16" href="images/foodpicky.png">
+  118      <title>FoodFinder - Admin Dashboard</title>
+
+  146                          <!-- Logo icon -->
+  147:                         <b><img src="images/foodpicky.png" alt="homepage" class="dark-logo" width = "25px"/></b>
+  148                          <!--End Logo icon -->
+
+admin/update_users.php:
+   75      <!-- Favicon icon -->
+   76:     <link rel="icon" type="image/png" sizes="16x16" href="images/foodpicky.png">
+   77      <title>FoodFinder - Admin Dashboard</title>
+
+  105                          <!-- Logo icon -->
+  106:                         <b><img src="images/foodpicky.png" alt="homepage" class="dark-logo" width = "25px"/></b>
+  107                          <!--End Logo icon -->
+
+admin/userprofile.php:
+  43      <!-- Favicon icon -->
+  44:     <link rel="icon" type="image/png" sizes="16x16" href="images/foodpicky.png">
+  45      <title>FoodFinder - Admin Dashboard</title>
+
+admin/view_order.php:
+  16      <!-- Favicon icon -->
+  17:     <link rel="icon" type="image/png" sizes="16x16" href="images/foodpicky.png">
+  18      <title>FoodFinder - Admin Dashboard</title>
+
+  59                          <!-- Logo icon -->
+  60:                         <b><img src="images/foodpicky.png" alt="homepage" class="dark-logo" width = "25px"/></b>
+  61                          <!--End Logo icon -->
+
+connection/connect.php:
+  6  $password = ""; //password
+  7: $dbname = "foodpicky_db";  //database
+  8  
+
+css/style.css:
+  3  /*------------------------------------------------------------------
+  4: Project Name: Foodpicky - Online food ordering system 
+  5  Version: 1.0
+
+Database/foodpicky_db.sql:
+  20  --
+  21: -- Database: `foodpicky_db`
+  22  --
+
+js/foodpicky.js:
+  1  /*!
+  2:  * Foodpicky HTML template V 1.0
+  3   * A simple and easy to use HTML template designed for online food ordering.
